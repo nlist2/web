@@ -13,6 +13,7 @@ const Nav = () => {
           </Link>
       </div>
       <div className="navbar__links">
+        <a href="/donate">Donate</a>
         <a href="/about">About</a>
       </div>
     </div>
